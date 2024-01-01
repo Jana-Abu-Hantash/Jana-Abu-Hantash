@@ -30,7 +30,7 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ## CONNECT WITH ME
-- **GitHub**: [Insert GitHub URL Here]
+- **GitHub**: https://github.com/Jana-Abu-Hantash
 - **Email**: abuhantash.jana@gmail.com
 
 Feel free to browse through my repositories to see detailed documentation and code for a variety of projects, ranging from beginner's exercises to more complex systems. Each project is an opportunity for me to learn and grow, and I hope they inspire you just as much as they've inspired me!
