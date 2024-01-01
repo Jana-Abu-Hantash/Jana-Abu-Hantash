@@ -1,5 +1,3 @@
-### Hi there 
-
 # Welcome to Jana Abu Hantash's GitHub!
 
 Hello! I'm Jana, a dedicated and innovative Bachelor's student specializing in Artificial Intelligence at Effat University. My passion for technology drives me to constantly explore and contribute to the vast world of programming and data science. Here, you'll find a portfolio of my projects, reflecting a blend of academic rigor and practical application.
