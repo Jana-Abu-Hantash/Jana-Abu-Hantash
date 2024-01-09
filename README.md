@@ -30,6 +30,7 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ## CONNECT WITH ME
+- **LinkedIn**: www.linkedin.com/in/jana-tharwat
 - **GitHub**: https://github.com/Jana-Abu-Hantash
 - **Email**: abuhantash.jana@gmail.com
 
